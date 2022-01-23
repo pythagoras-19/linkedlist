@@ -1,0 +1,7 @@
+jim
+jill
+john
+delete jill
+bob
+jack
+delete jim
